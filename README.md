@@ -1,4 +1,4 @@
--  Hi, I’m Kat Nguyen
+-  Hi, my name is Kathryn Nguyen
 -  I’m interested in using Data Science and GIS mapping for environmental justice!
 
 <!---
