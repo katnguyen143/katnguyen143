@@ -1,4 +1,4 @@
--  Hi, my name is Kathryn Nguyen and I'm currently a junior at UC Berkeley.
+-  Hi, my name is Kathryn Nguyen and I'm currently a senior at UC Berkeley.
 -  I’m interested in using Data Science and GIS mapping tools to understand the Earth's climate patterns, ecosystem dynamics, and the impacts of human activities on our planet's health.
 
 <!---
