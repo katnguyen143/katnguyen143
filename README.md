@@ -1,4 +1,4 @@
--  Hi, my name is Kathryn Nguyen and I'm a recent UC Berkeley Fall 2024 Grad.
+-  Hi, my name is Kathryn Nguyen and I'm a recent UC Berkeley class of 2025 grad.
 -  I’m interested in using Data Science and GIS mapping tools to understand the Earth's climate patterns, ecosystem dynamics, and the impacts of human activities on our planet's health.
 
 <!---
