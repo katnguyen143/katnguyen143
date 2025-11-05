@@ -1,5 +1,5 @@
 -  Hi, my name is Kathryn Nguyen and I'm a recent UC Berkeley '25 grad.
--  I’m interested in using Data Science and GIS mapping tools to understand the Earth's climate patterns, ecosystem dynamics, and the impacts of human activities on our planet's health.
+-  Currently doing fullstack web dev freelance!
 
 <!---
 katnguyen143/katnguyen143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
