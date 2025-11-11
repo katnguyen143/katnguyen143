@@ -1,5 +1,5 @@
 -  Hi, my name is Kathryn Nguyen and I'm a recent UC Berkeley '25 grad.
--  Currently doing fullstack web dev freelance!
+-  Currently a fullstack web developer!
 
 <!---
 katnguyen143/katnguyen143 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
